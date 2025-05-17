@@ -6,6 +6,7 @@ import Philosophy from "@/components/Philosophy";
 import Services from "@/components/Services";
 import News from "@/components/News";
 import Pricing from "@/components/Pricing";
+import Opinions from "@/components/Opinions";
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
       <Charts />
       <News />
       <Pricing />
+      <Opinions />
     </div>
   );
 }

@@ -1,14 +1,13 @@
 @import "tailwindcss";
 
 
-
 body {
     background-color: #161616;
     color: #FFFFFF;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    height: 10000rem;
+    overflow-x: hidden;
 }
 
 .mask-gradient-top {
