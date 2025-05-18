@@ -25,10 +25,10 @@ export default function Hero() {
 
                 {/* Mobile */}
                 <div className="block md:hidden">
-                    <h1 className="text-[40px] font-bold">
-                        Transform your business with our<br />
+                    <h1 className="text-[40px] font-bold w-[340px]">
+                        Transform your business with our
                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-[#bd78fa81]">
-                            Creative Marketing Solutions!
+                            {" "} Creative Marketing Solutions!
                         </span>
                     </h1>
                     <p className="text-[16px] leading-[28px] mt-[30px]">

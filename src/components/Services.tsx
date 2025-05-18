@@ -24,9 +24,9 @@ export default function Services() {
                                 <Image src={image} alt={image} width={53} height={48} />
                             </div>
                         </div>
-                        <div className="mt-8">
-                            <h1 className="text-[21px] leading-[24px] tracking-[-1%] mb-3">{title}</h1>
-                            <p className="text-[#646A69] text-[18px] tracking-[0.4%]">{des}</p>
+                        <div className="mt-8 flex flex-col justify-center items-center">
+                            <h1 className="text-[16px] md:text-[21px] leading-[24px] tracking-[-1%] mb-3 max-md:w-[141px]">{title}</h1>
+                            <p className="text-[#646A69] text-[14px] md:text-[18px] tracking-[0.4%] max-md:w-[141px]">{des}</p>
                         </div>
                     </div>
                 ))}
