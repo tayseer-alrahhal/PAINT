@@ -12,10 +12,10 @@ export default function OurPartners() {
 
 
     const images: ImagesType[] = [
-        { src: "/partner1.png", width: 167, height: 88, id: 1 },
-        { src: "/partner2.png", width: 52, height: 50, id: 2 },
-        { src: "/partner3.png", width: 90, height: 65, id: 3 },
-        { src: "/partner4.png", width: 60, height: 60, id: 4 },
+        { src: "partner1.png", width: 167, height: 88, id: 1 },
+        { src: "partner2.png", width: 52, height: 50, id: 2 },
+        { src: "partner3.png", width: 90, height: 65, id: 3 },
+        { src: "partner4.png", width: 60, height: 60, id: 4 },
         { src: "/partner1.png", width: 167, height: 88, id: 5 },
         { src: "/partner2.png", width: 52, height: 50, id: 6 },
         { src: "/partner3.png", width: 90, height: 65, id: 7 },
